@@ -14,10 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 
 ### Controllers methods
 
-Get All - get :: http://chriswax.somee.com/api/TodoList
-Get one - get :: http://chriswax.somee.com/api/TodoList/$id
-Post - get :: http://chriswax.somee.com/api/TodoList
-Put - get :: http://chriswax.somee.com/api/TodoList/$id
-Delete - get :: http://chriswax.somee.com/api/TodoList/$id
+- Get All - get :: http://chriswax.somee.com/api/TodoList
+- Get one - get :: http://chriswax.somee.com/api/TodoList/$id
+- Post - get :: http://chriswax.somee.com/api/TodoList
+- Put - get :: http://chriswax.somee.com/api/TodoList/$id
+- Delete - get :: http://chriswax.somee.com/api/TodoList/$id
 
 ## Author: Chriswax
